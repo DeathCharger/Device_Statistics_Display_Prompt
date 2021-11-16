@@ -1,0 +1,26 @@
+{
+  "name": "device_statistics_display_prompt",
+  "version": "1.0.0",
+  "description": "Shows statistics of the device",
+  "main": "run.js",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathCharger/Device_Statistics_Display_Prompt.git"
+  },
+  "keywords": [
+    "os"
+  ],
+  "author": "DeathCharger",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/DeathCharger/Device_Statistics_Display_Prompt/issues"
+  },
+  "homepage": "https://github.com/DeathCharger/Device_Statistics_Display_Prompt#readme"
+}
