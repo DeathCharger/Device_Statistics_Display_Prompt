@@ -25,6 +25,14 @@ Written in Javascript this script uses the inbuilt `os module` displays the stat
 
 - Console colouring is done with a package called `chalk`, to install chalk either run `npm install chalk` in the directory of the script, Please refer to youtube videos on how to install npm packages
 
+## How to start the program
+
+- Put all files in one folder and open command prompt and navigate to folder. If you have installed `NODE.JS` make sure `package.json` is in the same folder and run  `npm i` this will install all dependencies
+
+- Now run the `run.bat` file this will strt the program
+
+**Note:** Running `run.js` wont make any change except the window size and title
+
 
 ## Contact
 
